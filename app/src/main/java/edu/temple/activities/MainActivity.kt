@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
                 startActivity(intent)
             }
             layoutManager = LinearLayoutManager(this@MainActivity)
-            layoutManager = LinearLayoutManager(this@MainActivity)
         }
 
 
